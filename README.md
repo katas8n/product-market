@@ -16,7 +16,7 @@ Stack :
 - Database 
 
 
-#Instruction 
+Instruction 
 
-#if you get a project you should go in client directory and then put there : npm i 
-#and after you should put in the terminal : npm run dev 
+If you get a project you should go in client directory and then put there : npm i 
+and after you should put in the terminal : npm run dev 
