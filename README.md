@@ -22,4 +22,4 @@ Stack :
 
 Remarks :
 
--   Page of loading doesn't load []
+-   [] Page of loading doesn't load
