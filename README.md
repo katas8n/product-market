@@ -16,10 +16,10 @@ Stack :
 -   Back-end
 -   Database
 
-BUG :
+##BUG :
 
 -   Filters
 
 Remarks :
 
--   Page of loading doesn't load
+-   Page of loading doesn't load []
