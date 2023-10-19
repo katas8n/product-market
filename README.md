@@ -16,10 +16,10 @@ Stack :
 -   Back-end
 -   Database
 
-BUGS :
+BUG :
 
--   Fix filters
+-   Filters
 
 Remarks :
 
--   Loading page doesn't load
+-   Page of loading doesn't load
